@@ -1,0 +1,50 @@
+{
+    "name": "drop-lang",
+    "version": "0.1.6",
+    "description": "VDOM library",
+    "main": "lib/index.js",
+    "umd:main": "lib/index.umd.js",
+    "module": "lib/index.mjs",
+    "scripts": {
+      "phoenix": "rm -rf node_modules package-lock.json && npm install",
+      "test": "jest",
+      "test:watch": "npm run test -- --watch",
+      "build": "microbundle",
+      "start": "parcel examples/index.html",
+      "commit": "git-cz",
+      "precommit": "lint-staged"
+    },
+    "files": [
+      "lib"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/drop-org/drop"
+    },
+    "author": "Daniel Lopez <contact@2005danielus.ml<>",
+    "license": "ISC",
+    "devDependencies": {
+      "babel-core": "6.26.3",
+      "babel-plugin-transform-react-jsx": "6.24.1",
+      "babel-preset-env": "1.7.0",
+      "commitizen": "^4.0.3",
+      "cz-conventional-changelog": "3.0.2",
+      "husky": "3.0.5",
+      "jest": "24.9.0",
+      "lint-staged": "9.2.5",
+      "microbundle": "0.11.0",
+      "parcel-bundler": "1.12.3",
+      "prettier": "1.18.2"
+    },
+    "config": {
+      "commitizen": {
+        "path": "./node_modules/cz-conventional-changelog"
+      }
+    },
+    "lint-staged": {
+      "*.{js,json,css,md}": [
+        "prettier --write",
+        "git add"
+      ]
+    }
+  }
