@@ -5,6 +5,9 @@
     "main": "lib/index.js",
     "umd:main": "lib/index.umd.js",
     "module": "lib/index.mjs",
+    "bugs": {
+        "email": "drop.bugs@2005danielus.ml",
+        "url": "https://github.com/droplang/sharp",
     "scripts": {
       "phoenix": "rm -rf node_modules package-lock.json && npm install",
       "test": "jest",
@@ -19,7 +22,7 @@
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/drop-org/drop.git"
+      "url": "https://github.com/droplang/sharp.git"
     },
     "author": "Daniellop1",
     "license": "ISC",
