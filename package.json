@@ -6,7 +6,7 @@
     "umd:main": "lib/index.umd.js",
     "module": "lib/index.mjs",
     "bugs": {
-      "urk": "https://github.com/droplang/sharp",
+      "url": "https://github.com/droplang/sharp",
       "email": "drop.bugs@2005danielus.ml"
     },
     "scripts": {
