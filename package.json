@@ -1,6 +1,6 @@
 {
     "name": "dropsharp",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "description": "VDOM library",
     "main": "lib/index.js",
     "umd:main": "lib/index.umd.js",
