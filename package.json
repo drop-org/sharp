@@ -6,9 +6,9 @@
     "umd:main": "lib/index.umd.js",
     "module": "lib/index.mjs",
     "bugs": {
-        "email": "drop.bugs@2005danielus.ml",
-        "url": "https://github.com/droplang/sharp",
-    };
+      "urk": "https://github.com/droplang/sharp",
+      "email": "drop.bugs@2005danielus.ml"
+    },
     "scripts": {
       "phoenix": "rm -rf node_modules package-lock.json && npm install",
       "test": "jest",
