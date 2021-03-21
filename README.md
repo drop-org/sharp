@@ -70,7 +70,7 @@ document
 
 ## Demo
 
-You can see a working demo in the [examples folder](https://github.com/drop-org/drop/tree/master/examples).
+You can see a working demo in the [examples folder](https://github.com/droplang/drop/tree/master/examples).
 
 
 ## References
