@@ -8,6 +8,7 @@
     "bugs": {
         "email": "drop.bugs@2005danielus.ml",
         "url": "https://github.com/droplang/sharp",
+    };
     "scripts": {
       "phoenix": "rm -rf node_modules package-lock.json && npm install",
       "test": "jest",
