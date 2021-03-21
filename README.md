@@ -1,11 +1,11 @@
-# Drop Lang
+# Drop Sharp
 
 A simple VDOM library.
 
 ## Installation
 
 ```
-$ npm install drop-lang --save
+$ npm install dropsharp --save
 ```
 
 ### Configuring JSX pragma
@@ -50,7 +50,7 @@ The syntax is similar to a usual React component, with the only difference of im
 
 ```jsx
 // HelloWorld.js
-import { drop } from "drop-lang";
+import { drop } from "dropsharp";
 import "./styles.css";
 
 export const HelloWorld = ({ text }) => <h1 className="title">{text}</h1>;
@@ -60,7 +60,7 @@ To render an element, you would do:
 
 ```jsx
 // index.js
-import { drop, createElement } from "drop-lang";
+import { drop, createElement } from "dropsharp";
 import { HelloWolrd } from "./HelloWorld";
 
 document
@@ -70,7 +70,7 @@ document
 
 ## Demo
 
-You can see a working demo in the [examples folder](https://github.com/droplang/drop/tree/master/examples).
+You can see a working demo in the [examples folder](https://github.com/droplang/sharp/tree/master/examples).
 
 
 ## References
