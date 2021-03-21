@@ -78,3 +78,6 @@ You can see a working demo in the [examples folder](https://github.com/droplang/
 - [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
 - [Joltik](https://github.com/delacruz-dev/joltik)
+
+
+[![NPM](https://nodei.co/npm/dropsharp.png)](https://nodei.co/npm/dropsharp/)
