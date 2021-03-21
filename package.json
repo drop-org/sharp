@@ -19,7 +19,7 @@
     ],
     "repository": {
       "type": "git",
-      "url": "https://github.com/drop-org/drop"
+      "url": "https://github.com/drop-org/drop.git"
     },
     "author": "Daniellop1",
     "license": "ISC",
