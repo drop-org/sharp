@@ -32,7 +32,7 @@
       "babel-plugin-transform-react-jsx": "6.24.1",
       "babel-preset-env": "1.7.0",
       "commitizen": "^4.0.3",
-      "cz-conventional-changelog": "3.0.2",
+      "cz-conventional-changelog": "3.3.0",
       "husky": "6.0.0",
       "jest": "24.9.0",
       "lint-staged": "9.2.5",
