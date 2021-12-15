@@ -4,6 +4,7 @@ A simple VDOM library.
 
 ## Installation
 
+To install sharp run the following command:
 ```
 $ npm install dropsharp --save
 ```
