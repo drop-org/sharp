@@ -72,7 +72,7 @@ document
 
 ## Demo
 
-You can see a working demo in the [examples folder](https://github.com/droplang/sharp/tree/master/examples).
+You can see a working demo in the [examples folder](https://github.com/drop-org/sharp/tree/main/examples).
 
 
 ## References
