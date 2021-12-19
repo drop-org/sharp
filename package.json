@@ -1,5 +1,5 @@
 {
-    "name": "dropsharp",
+    "name": "drop-sharp",
     "version": "0.1.8",
     "description": "VDOM library",
     "main": "lib/index.js",
