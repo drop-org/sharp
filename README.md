@@ -1,4 +1,5 @@
 # Drop Sharp
+<img src="sharp.png"></img>
 
 A simple VDOM library.
 
