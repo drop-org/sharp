@@ -1,7 +1,6 @@
 <img src="sharp.png" height="100" weight="100"></img>
 # Drop Sharp
 
-
 A simple VDOM library.
 
 ## Installation
